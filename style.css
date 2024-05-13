@@ -3,8 +3,9 @@
     height: 350px;
     background-color:  white;
     border: 1px solid  gray ;
-    padding: 103px;
+    padding: 97px;
 }
 .ptag{
+    margin: 0;
     color: gray;
 }
